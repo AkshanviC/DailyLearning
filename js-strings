@@ -8,3 +8,5 @@ function DNAtoRNA(dna){
 // here the replace is a js string built in function which has 2 parameters. first one will accept the regex or the replacement word and the second one will accept the string which needs to be manipulated. 
 // in the regex /g will check for all the words present in the string
 // in the regex /i will indicate the condition is case insensitive
+
+<--- End of Today --->
