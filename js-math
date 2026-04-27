@@ -1,0 +1,2 @@
+Math.min() - to find the minimum value in a bunch of numbers.
+  eg: Math.min(2,3,5) //output: 2
